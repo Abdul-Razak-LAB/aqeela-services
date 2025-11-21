@@ -9,10 +9,9 @@ const Footer = () => {
         <div className="w-4/5">
           <Image className="w-28 md:w-32" src={assets.logo} alt="logo" />
           <p className="mt-6 text-sm">
-           Chericheri Doors offers high-quality doors and door-related services. We provide durable, 
-           stylish, and affordable doors for 
-           residential and commercial properties. Our mission is to deliver excellent 
-           customer service and meet the door needs of our clients.
+           Chericheri offers high-quality doors and it related services, such as locker and handles, Home appliances and Kitchen cabinets. We provide durable, 
+           stylish, and affordable products, for residential and commercial properties, Our mission is to deliver excellent 
+           customer service to meet the needs of our clients.
           </p>
         </div>
 
