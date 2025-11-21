@@ -41,7 +41,7 @@ const Footer = () => {
             <div className="text-sm space-y-2">
               <p>+233 209099310</p>
               <p>+233 209099310</p>
-              <p>+233 209099310</p>
+              
               <p>chericheri82z@gmail.com</p>
             </div>
           </div>
