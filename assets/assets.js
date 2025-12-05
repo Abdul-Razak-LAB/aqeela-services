@@ -23,10 +23,9 @@ import star_dull_icon from "./star_dull_icon.svg";
 import upload_area from "./upload_area.png";
 import checkmark from "./checkmark.png";
 import c181 from "./c181.png";
-import aa3 from "./aa3.jpg";
-import aa4 from "./aa4.jpg";
+
 import aa5 from "./aa5.jpg";
-import aa8 from "./aa8.jpg";
+
 import C1 from "./C1.jpeg";
 import C2 from "./C2.jpeg";
 import C3 from "./C3.jpeg";
@@ -55,7 +54,7 @@ import C25 from "./C25.jpeg";
 import C26 from "./C26.jpg";
 import C27 from "./C27.jpg";
 import C28 from "./C28.jpg";
-import C29 from "./C29.jpg";
+// import C29 from "./C29.jpg";
 import X12A from "./X12A.jpg";
 import X5 from "./X5.jpg";
 import X161 from "./X161.jpg";
@@ -70,16 +69,36 @@ import l3 from "./l3.jpg";
 import l8 from "./l8.jpg";
 import l9 from "./l9.jpg";
 import l10 from "./l10.jpg";
+import EL3 from "./EL3.jpg";
+import KI22 from "./KI22.jpg";
+import KI28 from "./KI28.jpg";
+import EL11 from "./EL11.jpg";
+import KIO from "./KIO.jpg";
+import KIO2 from "./KIO2.jpg";
+import KK1 from "./KK1.jpg";
+import KA from "./KA.png";
+
+
+
 
 export const assets = {
+ 
   logo,
+  EL3,
+  KA,
+  KK1,
+  KIO,
+  EL11,
+  KI28,
+  KIO2,
+  // KI21,
+  KI22,
   X12A,
   X161,
   X5,
-  aa3,
-  aa4,
+  
   aa5,
-  aa8,
+ 
   C1,
   C2,
   C3, 
@@ -107,7 +126,7 @@ export const assets = {
   C26,
   C27,
   C28,
-  C29,
+  // C29,
   mm1,
   mm2,
   mma,
@@ -143,7 +162,7 @@ export const assets = {
   star_dull_icon,
   upload_area,
   c181,
-  aa3,
+
   checkmark
 };
 
@@ -308,7 +327,7 @@ export const productsDummyData = [
   {
     "_id": "BSC0",
     "userId": "Abdul_1s34",
-    "name": "Security door",
+    "name": "Garage door",
     "description": "Strength in Protection, Serenity Within",
     // "price": 1699.99,
     // "offerPrice": 1499.99,
@@ -322,7 +341,7 @@ export const productsDummyData = [
   {
     "_id": "BSC1",
     "userId": "abd_112",
-    "name": "Security door",
+    "name": "Garage door",
     "description": "Your First Line of Defense, Your Peace of Mind",
     // "price": 1699.99,
     // "offerPrice": 1499.99,
@@ -336,7 +355,7 @@ export const productsDummyData = [
   {
     "_id": "BSC2",
     "userId": "razak_9U",
-    "name": "Security door",
+    "name": "Garage door",
     "description": "TSafeguarding Your Haven, Securing Your Heart",
     // "price": 1699.99,
     // "offerPrice": 1499.99,
@@ -499,7 +518,7 @@ export const productsDummyData = [
   {
     "_id": "ac11",
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-    "name": "Security door",
+    "name": "Garage door",
     "description": "Your First Line of Defense, Your Peace of Mind",
     // "price": 2199.99,
     // "offerPrice": 1999.99,
@@ -507,14 +526,14 @@ export const productsDummyData = [
       mm4,
       // "https://raw.githubusercontent.com/avinashdm/gs-images/main/quickcart/wig1urqgnkeyp4t2rtso.webp"
     ],
-    "category": "Security door",
+    "category": "Garage door",
     "date": 1738668619198,
     "__v": 0
   },
   {
     "_id": "ac12",
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-    "name": "Security door",
+    "name": "Garage door",
     "description": "Your First Line of Defense, Your Peace of Mind",
     // "price": 2199.99,
     // "offerPrice": 1999.99,
@@ -522,14 +541,14 @@ export const productsDummyData = [
       mm3,
       // "https://raw.githubusercontent.com/avinashdm/gs-images/main/quickcart/wig1urqgnkeyp4t2rtso.webp"
     ],
-    "category": "Security door",
+    "category": "Garage door",
     "date": 1738668619198,
     "__v": 0
   },
   {
     "_id": "ac13",
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-    "name": "Security door",
+    "name": "Garage door",
     "description": "Your First Line of Defense, Your Peace of Mind",
     // "price": 2199.99,
     // "offerPrice": 1999.99,
@@ -537,14 +556,14 @@ export const productsDummyData = [
       mm2,
       // "https://raw.githubusercontent.com/avinashdm/gs-images/main/quickcart/wig1urqgnkeyp4t2rtso.webp"
     ],
-    "category": "Security door",
+    "category": "Garage door",
     "date": 1738668619198,
     "__v": 0
   },
   {
     "_id": "ac14",
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-    "name": "Security door",
+    "name": "Garage door",
     "description": "Your First Line of Defense, Your Peace of Mind",
     // "price": 2199.99,
     // "offerPrice": 1999.99,
@@ -552,14 +571,14 @@ export const productsDummyData = [
       mm1,
       // "https://raw.githubusercontent.com/avinashdm/gs-images/main/quickcart/wig1urqgnkeyp4t2rtso.webp"
     ],
-    "category": "Security door",
+    "category": "Garage door",
     "date": 1738668619198,
     "__v": 0
   },
   {
     "_id": "ac15",
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-    "name": "Security door",
+    "name": "Garage door",
     "description": "Your First Line of Defense, Your Peace of Mind",
     // "price": 2199.99,
     // "offerPrice": 1999.99,
@@ -567,7 +586,7 @@ export const productsDummyData = [
       mma,
       // "https://raw.githubusercontent.com/avinashdm/gs-images/main/quickcart/wig1urqgnkeyp4t2rtso.webp"
     ],
-    "category": "Security door",
+    "category": "Garage door",
     "date": 1738668619198,
     "__v": 0
   },
@@ -721,12 +740,12 @@ export const addressDummyData = [
   {
     "_id": "67a1e4233f34a77b6dde9055",
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-    "fullName": "GreatStack",
-    "phoneNumber": "0123456789",
-    "pincode": 654321,
-    "area": "Main Road , 123 Street, G Block",
-    "city": "City",
-    "state": "State",
+    "fullName": "Chericheri Ghana Limited",
+    "phoneNumber": "+233 209099310",
+    "pincode": +233,
+    "area": "Palm Ave. Dome Pillar 2",
+    "city": "Accra",
+    "state": "Haatso Atomic Road",
     "__v": 0
   }
 ]

@@ -3,36 +3,21 @@ import { assets } from "@/assets/assets";
 import Image from "next/image";
 
 const products = [
+ 
   {
-    id: 1,
-    image: assets.l8,
-    
+    id: 2,
+    image: assets.KIO2,
+   
   },
-  
+
   {
-    id: 4,
-    image: assets.l1,
-    // title: "adeftg",
-    // description: "Shop",
-  },
-  {
-    id: 5,
-    image: assets.l3,
-    
-  },
-  {
-    id: 6,
-    image: assets.l2,
-    
-  },
-  {
-    id: 3,
-    image: assets.l10,
+    id: 9,
+    image: assets.KA,
    
   },
   {
-    id: 2,
-    image: assets.l9,
+    id: 10,
+    image: assets.KK1,
    
   },
   

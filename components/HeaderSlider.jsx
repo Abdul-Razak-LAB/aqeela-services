@@ -10,7 +10,15 @@ const HeaderSlider = () => {
       offer: "Limited Time Offer 30% Off",
       buttonText1: "Buy now",
       buttonText2: "Find more",
-      imgSrc: assets.C9,
+      imgSrc: assets.aa5,
+    },
+    {
+      id: 177,
+      title: "Entrusted with Your Safety, Committed to Excellence",
+      offer: "Limited Time Offer 30% Off",
+      buttonText1: "Buy now",
+      buttonText2: "Find more",
+      imgSrc: assets.C2,
     },
     {
       id: 2,
@@ -18,7 +26,7 @@ const HeaderSlider = () => {
       offer: "Hurry up only few lefts!",
       buttonText1: "Shop Now",
       buttonText2: "Explore Deals",
-      imgSrc: assets.C11,
+      imgSrc: assets.KA,
     },
     {
       id: 3,
@@ -26,24 +34,17 @@ const HeaderSlider = () => {
       offer: "Exclusive Deal 40% Off",
       buttonText1: "Order Now",
       buttonText2: "Learn More",
-      imgSrc: assets.C16,
+      imgSrc: assets.KK1,
     },
     {
       id: 4,
-      title: "Your First Line of Defense, Your Peace of Mind",
+      title: "Upgrade your space with reliable electric essentials",
       offer: "Exclusive Deal 40% Off",
       buttonText1: "Order Now",
       buttonText2: "Learn More",
-      imgSrc: assets.C4,
+      imgSrc: assets.KIO2,
     },
-    {
-      id: 5,
-      title: "Where Protection Meets Prestige.",
-      offer: "Exclusive Deal 40% Off",
-      buttonText1: "Order Now",
-      buttonText2: "Learn More",
-      imgSrc: assets.aa5,
-    },
+    
   ];
 
   const [currentSlide, setCurrentSlide] = useState(0);
