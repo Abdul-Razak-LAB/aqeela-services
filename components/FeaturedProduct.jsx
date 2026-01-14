@@ -5,22 +5,24 @@ import Image from "next/image";
 const products = [
   {
     id: 1,
-    image: assets.girl_with_headphone_image,
-    title: "Unparalleled Sound",
-    description: "Experience crystal-clear audio with premium headphones.",
+    image: assets.k41,
+    title: "Napsacks ",
+    description: "All Parts.",
   },
   {
     id: 2,
-    image: assets.girl_with_earphone_image,
-    title: "Stay Connected",
-    description: "Compact and stylish earphones for every occasion.",
+    image: assets.k40,
+    title: "Hand Gloves ",
+    description: "All kinds.",
   },
   {
     id: 3,
-    image: assets.boy_with_laptop_image,
-    title: "Power in Every Pixel",
-    description: "Shop the latest laptops for work, gaming, and more.",
+    image: assets.k33,
+    title: "Cutlass ",
+    description: "All type.",
   },
+ 
+ 
 ];
 
 const FeaturedProduct = () => {
