@@ -69,14 +69,14 @@ import k23 from "./k23.jpg";
 import k24 from "./k24.jpg";
 import k25 from "./k25.webp";
 import k26 from "./k26.png";
-// import k27 from "./k27.jpg";
+import k27 from "./k27.jpeg";
 import k28 from "./k28.jpg";
 import k29 from "./k29.jpg";
 import k30 from "./k30.jpg";
 import k31 from "./k31.png";
 import k32 from "./k32.jpeg";
 import k33 from "./k33.jpeg";
-// import k34 from "./k34.jpg";
+import k34 from "./k34.jpeg";
 import k36 from "./k36.jpg";
 import k37 from "./k37.jpg";
 import k38 from "./k38.jpg";
@@ -88,6 +88,10 @@ import k42 from "./k42.jpeg";
 import k43 from "./k43.jpg";
 import k45 from "./k45.jpg";
 import k46 from "./k46.jpg";
+import kk3 from "./kk3.jpg";
+import kk4 from "./kk4.jpg";
+import kk5 from "./kk5.jpg";
+import k77 from "./k77.jpeg";
 
 
 export const assets = {
@@ -160,14 +164,14 @@ export const assets = {
   k24,
   k25,
   k26,
-  // k27,
+  k27,
   k28,
   k29,
   k30,
   k31,
   k32,
   k33,
-  // k34,
+  k34,
   k35,
   k36,
   k37,
@@ -179,6 +183,10 @@ export const assets = {
   k43,
   k45,
   k46,
+  k77,
+  kk3,
+  kk4,
+  kk5,
 };
 
 export const BagIcon = () => {
@@ -219,7 +227,7 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "NPK",
     "description": "NPK fertilizers are a type of compound fertilizer containing nitrogen (N), phosphorus (P), and potassium (K), essential for plant growth. They're widely used to improve soil fertility, increase crop yields, and support sustainable farming practices. The types include: NPK-(15:15:15), 20:10:10, 10:20:10 ",
-    "price": 499.99,
+    "price": 0.00,
     "offerPrice": 399.99,
     "image": [
       k1
@@ -233,7 +241,7 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "UREA",
     "description": "Urea is a nitrogen-rich fertilizer containing 46% nitrogen, making it an effective and cost-efficient source of nutrients for plants. The benefits includes: - Enhances crop growth and yield, Improves soil nutrient content, Cost-effective compared to other fertilizers, Suitable for various crops, including maize, rice, and wheat, Can be used in combination with other fertilizers",
-    "price": 429.99,
+    "price": 0.00,
     "offerPrice": 329.99,
     "image": [
       //
@@ -263,7 +271,7 @@ export const productsDummyData = [
     "name": "Yara",
     "description": "Yara's Key Products and Uses: YaraVita: Foliar fertilizers for optimal nutrient balance and crop performance- YaraLiva: Calcium nitrate fertilizers for high-value crops, promoting healthy growth and marketability- YaraMila: Compound fertilizers with nitrogen, phosphorus, and potassium for balanced crop nutrition- YaraBela: Nitrogen and sulfur fertilizers for grassland and arable crops- YaraRega: Water-soluble granular NPK fertilizers for field fertigation- YaraTera: Fully water-soluble fertilizers for fertigation- YaraSuna: Organic compound fertilizers supporting soil health and crop resilience.",
     "price": 399.99,
-    "offerPrice": 349.99,
+    "offerPrice": 0.00,
     "image": [
       k4
     ],
@@ -276,8 +284,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Sunphosate",
     "description": "Sunphosate (Glyphosate) is a widely used herbicide in agriculture, playing a crucial role in controlling weeds and promoting crop growth. Its importance lies in its effectiveness against a broad spectrum of weeds, including annual and perennial grasses, broadleaf weeds, aquatic weeds, and shrubs. Benefits:- Efficient Weed Control: Sunphosate provides fast and reliable control of weeds, ensuring crops receive necessary nutrients and water.- Increased Crop Yields: By reducing weed competition, Sunphosate promotes healthier crop growth, leading to improved yields and quality.- Convenience: Its systemic action allows for easy application, with minimal handling and packaging needs.- Flexibility: Compatible with various products, making it a versatile choice for farmers.",
-    "price": 599.99,
-    "offerPrice": 499.99,
+    "price": 0.00,
+    "offerPrice": 0.00,
     "image": [
       
       k21
@@ -291,7 +299,7 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Shifu",
     "description": "Shifu is a non-selective, systemic herbicide, meaning it kills most herbaceous plants it comes in contact with and is absorbed by the foliage to work throughout the plant's system. It is generally used for total weed control in non-agricultural sites, fallow lands, and certain specific crops like sugarcane where directed application is possible.",
-    "price": 4199.99,
+    "price": 0.00,
     "offerPrice": 3899.99,
     "image": [
    
@@ -306,8 +314,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Nwura wura",
     "description": " is a brand of non-selective, systemic herbicide containing Glyphosate 360g/L SL, used to kill a broad range of annual/perennial grasses, broadleaf weeds, and woody shrubs in non-crop areas, for zero-tillage farming, and in forestry, working by being absorbed by green parts and moving to kill the entire plant. It's effective for post-emergence and some pre-emergence applications but requires protective gear during use.",
-    "price": 2799.99,
-    "offerPrice": 2499.99,
+    "price": 0.00,
+    "offerPrice": 0.00,
     "image": [
      
       k6
@@ -321,8 +329,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhwq",
     "name": "Landguard",
     "description": "Landguard is a broad-spectrum, systemic herbicide used to control a wide range of weeds.",
-    "price": 2799.99,
-    "offerPrice": 2499.99,
+    "price": 0.00,
+    "offerPrice": 0.00,
     "image": [
      
       k22
@@ -336,8 +344,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Calcium Carbide",
     "description": "Calcium carbide is used in agriculture primarily to produce acetylene gas (ethyne) for artificial fruit ripening (like bananas, mangoes) and as a plant growth regulator to promote flowering/fruiting (pineapples), but it also acts as a soil amendment or weed/pest killer; however, its application raises significant health concerns due to potential carcinogenic byproducts and reduced nutrient content in treated produce, requiring careful, regulated use",
-    "price": 2799.99,
-    "offerPrice": 2499.99,
+    "price": 0.00,
+    "offerPrice": 0.00,
     "image": [
      
       k15
@@ -351,8 +359,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Machete",
     "description": "Cutlasses and machetes are versatile tools used globally for agriculture (clearing land, harvesting crops like sugarcane, opening coconuts), survival/bushcraft (chopping wood, building shelters, making trails), and as weapons due to their chopping power and reach. They act as a hybrid tool, combining the functions of a knife and a hatchet for tasks like clearing dense vegetation, preparing food, and general camp chores. ",
-    "price": 2799.99,
-    "offerPrice": 2499.99,
+    "price": 0.00,
+    "offerPrice": 0.00,
     "image": [
       
       k33
@@ -366,8 +374,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Napsack",
     "description": "A knapsack sprayer is a portable device carried on the back, used for spraying liquids like pesticides, herbicides, fertilizers, or disinfectants, featuring a tank, hose, and nozzle for controlled application in gardens, farms, or around buildings, available in manual, electric, or battery-powered models for efficient treatment of small to medium areas.",
-    "price": 2799.99,
-    "offerPrice": 2499.99,
+    "price": 0.00,
+    "offerPrice": 0.00,
     "image": [
       
       k31
@@ -381,8 +389,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Wellington boots",
     "description": "Wellington boots in contemporary usage are waterproof and are most often made from rubber or polyvinyl chloride (PVC), a halogenated polymer. They are usually worn when walking on wet or muddy ground, or to protect the wearer from heavy showers and puddles. They are generally just below knee-high although shorter boots are available",
-    "price": 2799.99,
-    "offerPrice": 2499.99,
+    "price": 0.00,
+    "offerPrice": 0.00,
     "image": [
      
       k7
@@ -396,8 +404,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Tomatoes",
     "description": "The Petomech tomato is a high-yielding, determinate (bushy) variety known for its firm, oval to square, red fruits, excellent for processing into sauces due to its long shelf life and intense sweet flavor, suitable for both field and greenhouse growing, and offers good resistance to some diseases and insects, making it popular in regions like Ghana for fresh market and processing",
-    "price": 2799.99,
-    "offerPrice": 2499.99,
+    "price": 0.00,
+    "offerPrice": 0.00,
     "image": [
       
       k29
@@ -411,8 +419,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Okra",
     "description": "Okra varieties differ in color, shape, and tenderness, with popular types including the classic green Clemson Spineless, deep red Burgundy, pale green Blondy, and ridged Star of David, while some are bred for specific traits like dwarf size (e.g., Baby Bubba) or extended tenderness even when large (e.g., Emerald Green Velvet). Key types range from ribbed (like 'Cowhorn') to smooth, with colors from green to red/purple, and specific cultivars like 'Annie Oakley' offer high yields, making choices dependent on culinary use and growing conditions",
-    "price": 2799.99,
-    "offerPrice": 2499.99,
+    "price": 0.00,
+    "offerPrice": 0.00,
     "image": [
      
       k30
@@ -426,8 +434,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Cabbage",
     "description": "Common cabbage varieties in Aqeela Services include popular types like Oxylus (Oselos), known for heat tolerance and market demand, and K-K Cross, both fast-maturing. Other grown varieties are Super Cross, Santa, Fortune, Golden Acre, and Holland, with farmers choosing based on climate, maturity, and market preferences, with Savoy Perfection suited for cooler highlands and Michihilli for specialty markets",
-    "price": 2799.99,
-    "offerPrice": 2499.99,
+    "price": 0.00,
+    "offerPrice": 0.00,
     "image": [
     
       k32
@@ -441,8 +449,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Carrot",
     "description": "Common carrot varieties sells in Aqeela services include Kuroda, Nantes, Chantenay, Amazonia, and Pamela, with newer hybrids like Fortado, Genie F1, Orange Glory F1, and Maestro F1 also available, offering diverse characteristics for Ghana's warm climate, though varieties like Kuroda are favored for their nutritional value and high yield, suited for both local conditions and market demands",
-    "price": 2799.99,
-    "offerPrice": 2499.99,
+    "price": 0.00,
+    "offerPrice": 0.00,
     "image": [
 
       k28
@@ -456,8 +464,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Polyfeed",
     "description": "Poly-Feed 19-19-19 is a highly soluble, balanced NPK (Nitrogen-Phosphorus-Potassium) water-soluble fertilizer, often including essential micronutrients, designed for foliar feeding or irrigation (fertigation) to promote vigorous vegetative growth, strong roots, and green leaves across various crops like vegetables, cereals, cocoa, and ornamentals, acting as a general booster from nursery to maturity.",
-    "price": 2799.99,
-    "offerPrice": 2499.99,
+    "price": 0.00,
+    "offerPrice": 0.00,
     "image": [
       
       k23
@@ -471,8 +479,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Mult-K",
     "description": "Multi-K primarily refers to Haifa Group's brand of Potassium Nitrate (KNO3) fertilizer, a highly efficient, fully water-soluble nutrient source for plants, rich in potassium and nitrate, promoting better fruit, yield, disease resistance, and turf strength without harmful residues like chloride or sodium. It's used in various forms (foliar, soil, nutrigation) for diverse crops like fruits, vegetables, cereals, and ornamentals, boosting growth during flowering and fruiting",
-    "price": 349.99,
-    "offerPrice": 299.99,
+    "price": 0.00,
+    "offerPrice": 0.00,
     "image": [
      
       k24
@@ -486,8 +494,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Mancozan Super",
     "description": "The fungicide  Mancozeb 640 + Metalaxyl 80g is truly versatile and can be used on a wide range of agricultural crops. In addition to the most common ones like potatoes, tomatoes, grapes, and onions, it is also recommended for: Cucumber: Protection against mildew and leaf spot. Tobacco: Control of diseases such as mildew and root rot.Ornamental plants ideal for nurseries and gardens, preventing seedlings from toppling over and leaf spots.Grains (such as corn and wheat) protect against rust and soil-borne fungal diseases.Oilseeds (such as soybeans) help control mildew and brown spot.Fruits (such as melon, watermelon, and strawberry) prevention of mildew and black rot .Legumes (such as beans and peas) for rust and leaf spot control. (CORN AND WHEAT) protects against rust and fungal diseases. This type of fungicide is especially useful in regions with high humidity, where fungi develop more easily.",
-    "price": 1699.99,
-    "offerPrice": 1499.99,
+    "price": 0.00,
+    "offerPrice": 10.00,
     "image": [
       k25
     ],
@@ -500,8 +508,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Super grow",
     "description": "Super Grow 5L refers to a concentrated organic liquid additive, often sold as GNLD Neolife Super Gro, that acts as a wetting agent, spreader, sticker, and emulsifier to make water wetter, helping it penetrate soil and stick to plants better, thereby boosting nutrient uptake, improving fertilizer/pesticide effectiveness, reducing water runoff, and promoting healthier, higher-yield crops by optimizing water usage and enhancing soil quality. It's eco-friendly, non-toxic, and used in small quantities (e.g., 1ml per liter of water) for various applications on all plants and crops. ",
-    "price": 1699.99,
-    "offerPrice": 1499.99,
+    "price": 0.00,
+    "offerPrice": 10.00,
     "image": [
       k26
     ],
@@ -514,8 +522,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Sunpyrifos",
     "description": "Sunpyrifos is a popular brand name for an insecticide whose active ingredient is chlorpyrifos-ethyl, a broad-spectrum organophosphate used to control many pests on crops (maize, vegetables, cocoa, etc.) and in homes (termites, cockroaches, ants). Available as an Emulsifiable Concentrate (EC), often at 48% strength, it's a contact insecticide applied to control pests like caterpillars, aphids, leaf miners, and termites, requiring careful use with protective gear as per label instructions.",
-    "price": 1699.99,
-    "offerPrice": 1499.99,
+    "price": 0.00,
+    "offerPrice": 10.00,
     "image": [
       
       k9
@@ -529,8 +537,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Golan",
     "description": "Golan insecticide, often sold as Golan Super 200SL, is a systemic, translaminar insecticide containing the active ingredient Acetamiprid (200 g/L), used to control sucking pests like whiteflies, aphids, thrips, and leaf miners on cereals, vegetables, and tree crops. It works by disrupting the insect's nervous system after being absorbed by the plant, providing control on both leaf surfaces. ",
-    "price": 1699.99,
-    "offerPrice": 1499.99,
+    "price": 0.00,
+    "offerPrice": 10.00,
     "image": [
       
       k42
@@ -544,8 +552,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Termiking 480 EC",
     "description": "Termiking 480 EC (Emulsifiable Concentrate) is a broad-spectrum insecticide containing Chlorpyrifos 480g/L as its active ingredient, used primarily in Ghana and West Africa for controlling termites in wood and buildings (termicide), general pests in crops (maize, cocoa, vegetables), and for public health spraying (ants, snakes, general pests). It works as a contact, stomach, and fumigant, creating soil barriers against termites and preserving wood. ",
-    "price": 1699.99,
-    "offerPrice": 1499.99,
+    "price": 0.00,
+    "offerPrice": 10.00,
     "image": [
       
       k43
@@ -559,8 +567,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Garlon 4E",
     "description": "Garlon 4E (often Garlon 4 Ultra) is a powerful, systemic, post-emergent herbicide containing triclopyr (butoxyethyl ester), used by professionals for controlling woody plants, brush, and broadleaf weeds in non-crop areas like rights-of-way, forestry, and industrial sites. Its ester formulation makes it effective for basal bark, cut-stump, and dormant stem treatments, penetrating bark to reach the cambium layer, even in cooler seasons, though it requires careful application to avoid damage to desirable plants due to potential volatilization. ",
-    "price": 1699.99,
-    "offerPrice": 1499.99,
+    "price": 0.00,
+    "offerPrice": 10.00,
     "image": [
       
       k14
@@ -574,8 +582,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "King kong",
     "description": "King Kong is a popular, strong, non-selective systemic herbicide containing Glyphosate (480 g/L), known as the King of Weed Killers, used in Ghana and other regions for clearing tough annual and perennial weeds, grasses, and aquatic weeds before planting crops like maize, requiring careful application with Personal Protective Equipment (PPE) to avoid health risks. ",
-    "price": 1699.99,
-    "offerPrice": 1499.99,
+    "price": 0.00,
+    "offerPrice": 10.00,
     "image": [
       
       k36
@@ -589,8 +597,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Gramoking",
     "description": "Gramoking is a brand of non-selective, contact herbicide containing Paraquat Dichloride (276 g/L SL) used for controlling grasses and broadleaf weeds in various crops like fruit orchards, plantations (coffee, oil palm, rubber), and maize, sold in different sizes (500ml, 1L, 5L) in markets like Ghana and Kenya",
-    "price": 1699.99,
-    "offerPrice": 1499.99,
+    "price": 0.00,
+    "offerPrice": 10.00,
     "image": [
       
       k19
@@ -604,8 +612,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Glyphader 360",
     "description": "Glyphader 360 (or Glyphader 360 SL) is a brand of non-selective, systemic liquid herbicide containing 360 grams per liter (g/L) of the active ingredient Glyphosate, used to control a wide range of annual and perennial grasses and broadleaf weeds in agricultural, industrial, and home garden settings by being absorbed through the leaves and killing the entire plant. It's a potent weedkiller, similar to Roundup, that requires careful, directed application to avoid harming desired crops or plants, often mixed with water at specific rates (e.g., 10-24ml per liter) for effective results, according to Agro Eco Sarl and TmBusiness. ",
-    "price": 1699.99,
-    "offerPrice": 1499.99,
+    "price": 0.00,
+    "offerPrice": 10.00,
     "image": [
       
       k18
@@ -619,8 +627,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Frankosate",
     "description": "Frankosate 1L is a high-quality, non-selective systemic herbicide containing 410g/L of glyphosate, designed for effective control of annual and perennial weeds. Suitable for agriculture, public areas, and industrial sites, it works by being absorb",
-    "price": 1699.99,
-    "offerPrice": 1499.99,
+    "price": 0.00,
+    "offerPrice": 10.00,
     "image": [
       
       k11
@@ -634,8 +642,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Bonsate",
     "description": "Bonsate is a trade name for a non-selective, systemic herbicide with glyphosate as its active ingredient. It is used to control a wide range of annual and perennial weeds in non-crop areas and various perennial crop plantations. ",
-    "price": 1699.99,
-    "offerPrice": 1499.99,
+    "price": 0.00,
+    "offerPrice": 10.00,
     "image": [
       
       k12
@@ -649,8 +657,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Mesfuron",
     "description": "A selective systemic herbicide for the control of grasses, sedges, broadleafs and all kinds of weeds in maize production. turn to Mesfuron from Aqeela services for efficiency and avoid excess spending in control of weeds.",
-    "price": 1699.99,
-    "offerPrice": 1499.99,
+    "price": 0.00,
+    "offerPrice": 10.00,
     "image": [
       
       k8
@@ -664,8 +672,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Bonamine",
     "description": "ACTIVE INGREDIENTS : 2, 4- D 720g/l SLL Selective systemic herbicide for broad leaf and annual grass weeds in Maize, Sorghum, Rice, Sugarcane,",
-    "price": 1699.99,
-    "offerPrice": 1499.99,
+    "price": 0.00,
+    "offerPrice": 10.00,
     "image": [
       
       k10
@@ -679,8 +687,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Bon Proplus",
     "description": "Bon Proplus is a selective, broad-spectrum, post-emergence herbicide used for weed control specifically in rice farms",
-    "price": 1699.99,
-    "offerPrice": 1499.99,
+    "price": 0.00,
+    "offerPrice": 10.00,
     "image": [
       
       k38
@@ -694,8 +702,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Elephant Maize",
     "description": "Maize (or corn, Zea mays) is a globally vital cereal crop, a tall grass grown worldwide for food (staples, porridges, snacks), animal feed, and industrial products like ethanol, prized for its high carbohydrate content and adaptability to diverse climates. Key types include dent, flint, sweet, and popcorn, with yellow and white varieties being most common. It originated in Mexico and is a top cereal alongside wheat and rice, crucial for food security in regions like Africa and Latin",
-    "price": 1699.99,
-    "offerPrice": 1499.99,
+    "price": 0.00,
+    "offerPrice": 10.00,
     "image": [
       
       k39
@@ -709,8 +717,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Montibroma",
     "description": "Active Ingredients: Bromacil 800 g/kg DESCRIPTION: A pre & post emergence herbicide with broad spectrum, for the control of annual broadleaf and grassy weeds in pineapple Target: Annual broad leaves and grasses. APPLICATION RATE: 75 g in 15 Lt of water",
-    "price": 1699.99,
-    "offerPrice": 1499.99,
+    "price": 0.00,
+    "offerPrice": 10.00,
     "image": [
       
       k17
@@ -724,8 +732,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Sun-Diuron",
     "description": "Diuron is a broad-spectrum, phenylurea herbicide used to control grasses and broadleaf weeds by inhibiting photosynthesis, also acting as an algaecide in water bodies and a mildewcide in paints, used in agriculture (cotton, sugarcane) and non-crop areas (railways, industrial sites). It's a persistent chemical that can be a potential groundwater contaminant and is available as wettable powders or suspension concentrates for pre-emergent and post-emergent weed control. ",
-    "price": 1699.99,
-    "offerPrice": 1499.99,
+    "price": 0.00,
+    "offerPrice": 10.00,
     "image": [
       
       k46
@@ -739,8 +747,8 @@ export const productsDummyData = [
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "Vijusett",
     "description": "",
-    "price": 1699.99,
-    "offerPrice": 1499.99,
+    "price": 0.00,
+    "offerPrice": 10.00,
     "image": [
       
       k45
@@ -774,7 +782,7 @@ export const orderDummyData = [
           "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
           "name": "Apple AirPods Pro",
           "description": "Apple AirPods Pro (2nd Gen) with MagSafe Case (USB-C) provide excellent sound, active noise cancellation, and a comfortable fit. The USB-C case ensures quick charging, and they pair seamlessly with Apple devices for an effortless audio experience.",
-          "price": 499.99,
+          "price": 0.00,
           "offerPrice": 399.99,
           "image": [
             "https://res.cloudinary.com/djbvf02yt/image/upload/v1738667237/lrllaprpos2pnp5c9pyy.png",
@@ -816,7 +824,7 @@ export const orderDummyData = [
           "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
           "name": "Bose QuietComfort 45",
           "description": "The Bose QuietComfort 45 headphones are engineered for exceptional sound quality and unparalleled noise cancellation. With a 24-hour battery life and comfortable, lightweight design, these headphones deliver premium audio for any environment. Whether on a flight, in the office, or at home, the Bose QC45 blocks out distractions, offering an immersive listening experience.",
-          "price": 429.99,
+          "price": 0.00,
           "offerPrice": 329.99,
           "image": [
             "https://res.cloudinary.com/djbvf02yt/image/upload/v1738667311/m16coelz8ivkk9f0nwrz.png"
@@ -855,7 +863,7 @@ export const orderDummyData = [
           "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
           "name": "Apple AirPods Pro",
           "description": "Apple AirPods Pro (2nd Gen) with MagSafe Case (USB-C) provide excellent sound, active noise cancellation, and a comfortable fit. The USB-C case ensures quick charging, and they pair seamlessly with Apple devices for an effortless audio experience.",
-          "price": 499.99,
+          "price": 0.00,
           "offerPrice": 399.99,
           "image": [
             "https://res.cloudinary.com/djbvf02yt/image/upload/v1738667237/lrllaprpos2pnp5c9pyy.png",
