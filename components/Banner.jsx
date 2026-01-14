@@ -22,16 +22,16 @@ const Banner = () => {
           <Image className="group-hover:translate-x-1 transition" src={assets.kk5} alt="arrow_icon_white" />
         </button>
       </div>
-      <Image
+      {/* <Image
         className="hidden md:block max-w-80"
         src={assets.md_controller_image}
         alt="md_controller_image"
-      />
-      <Image
+      /> */}
+      {/* <Image
         className="md:hidden"
         src={assets.sm_controller_image}
         alt="sm_controller_image"
-      />
+      /> */}
     </div>
   );
 };
