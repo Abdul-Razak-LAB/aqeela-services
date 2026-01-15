@@ -84,7 +84,7 @@ export const AppContextProvider = (props) => {
     }, [])
 
     const value = {
-        // user,
+        
         currency, router,
         isSeller, setIsSeller,
         userData, fetchUserData,

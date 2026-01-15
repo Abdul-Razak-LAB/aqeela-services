@@ -6,44 +6,38 @@ const HeaderSlider = () => {
   const sliderData = [
     {
       id: 1,
-      title: "Entrusted with Your Safety, Committed to Excellence",
-      offer: "Limited Time Offer 30% Off",
+      title: "Welcome to Aqeela Services!",
+      offer: "Your No 1 Agrochemical store",
       buttonText1: "Buy now",
       buttonText2: "Find more",
-      imgSrc: assets.aa5,
-    },
-    {
-      id: 177,
-      title: "Entrusted with Your Safety, Committed to Excellence",
-      offer: "Limited Time Offer 30% Off",
-      buttonText1: "Buy now",
-      buttonText2: "Find more",
-      imgSrc: assets.C2,
+      imgSrc: assets.kk1,
     },
     {
       id: 2,
-      title: "Protecting Your World, One Entry at a Time",
-      offer: "Hurry up only few lefts!",
+      title: "Welcome to Aqeela Services!",
+      offer: "The farmer friend!!!",
       buttonText1: "Shop Now",
       buttonText2: "Explore Deals",
-      imgSrc: assets.KA,
+      imgSrc: assets.kk3,
     },
     {
       id: 3,
-      title: "Crafted for Safety, Designed for Dignity",
-      offer: "Exclusive Deal 40% Off",
+      title: "Welcome to Aqeela Services",
+      offer: "Exclusive discount on 2% Off",
       buttonText1: "Order Now",
       buttonText2: "Learn More",
-      imgSrc: assets.KK1,
+      imgSrc: assets.kk4,
     },
     {
       id: 4,
-      title: "Upgrade your space with reliable electric essentials",
-      offer: "Exclusive Deal 40% Off",
+      title: "Welcome to Aqeela Services!",
+      offer: "Exclusive Deal 2% Off",
       buttonText1: "Order Now",
       buttonText2: "Learn More",
-      imgSrc: assets.KIO2,
+      imgSrc: assets.kk1,
     },
+    
+   
     
   ];
 
@@ -89,7 +83,8 @@ const HeaderSlider = () => {
               </div>
             </div>
             <div className="flex items-center flex-1 justify-center">
-              <Image className="md:w-72 w-48"
+              <Image
+                className="md:w-72 w-48"
                 src={slide.imgSrc}
                 alt={`Slide ${index + 1}`}
               />
