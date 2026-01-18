@@ -12,7 +12,7 @@ const Banner = () => {
       />
       <div className="flex flex-col items-center justify-center text-center space-y-2 px-4 md:px-0">
         <h2 className="text-2xl md:text-3xl font-semibold max-w-[290px]">
-          Level Up Your Agro products with
+          Level Up Your Agro products
         </h2>
         <p className="max-w-[343px] font-medium text-gray-800/60">
           Aqeela Service
