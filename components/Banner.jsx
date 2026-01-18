@@ -15,7 +15,7 @@ const Banner = () => {
           Level Up Your Agro products with
         </h2>
         <p className="max-w-[343px] font-medium text-gray-800/60">
-          Aqeela Services
+          Aqeela Service
         </p>
         <button className="group flex items-center justify-center gap-1 px- py-2.5 bg-orange-340 rounded text-white">
           
