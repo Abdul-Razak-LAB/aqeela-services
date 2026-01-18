@@ -18,7 +18,7 @@ const HeaderSlider = () => {
       offer: "The farmer friend!!!",
       buttonText1: "Shop Now",
       buttonText2: "Explore Deals",
-      imgSrc: assets.kk3,
+      imgSrc: assets.q2,
     },
     {
       id: 3,
@@ -34,10 +34,9 @@ const HeaderSlider = () => {
       offer: "Exclusive Deal 2% Off",
       buttonText1: "Order Now",
       buttonText2: "Learn More",
-      imgSrc: assets.k34,
+      imgSrc: assets.kk3,
     },
     
-   
     
   ];
 
